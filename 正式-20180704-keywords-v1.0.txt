@@ -1,6 +1,7 @@
 ﻿#keywords
 #hello
 #update
+#sugar
 NERURL|http://qcloud-gz1.chewrobot.com:30011/predict
 options|simple_post,fast_understanding
 
